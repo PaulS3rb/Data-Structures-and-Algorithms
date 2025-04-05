@@ -1,0 +1,21 @@
+spec:
+
+pre:2 bags
+
+post:true or false, depending if the two bags contain the same elements the same amount of time
+
+pseudocode:
+	
+bool operator==()
+{
+
+bag b1
+bag b2
+for (i=0;i<max(b1.capacity,b2.capacity);i++)
+	if(b1.elements[i]!=NULLTELEM)
+
+	if nrTimes(b1.elements[i])!=nrTimes(b2.elements[i])
+		return false;
+
+return true;
+}				

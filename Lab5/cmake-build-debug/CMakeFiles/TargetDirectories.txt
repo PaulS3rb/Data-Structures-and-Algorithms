@@ -1,0 +1,3 @@
+C:/D/Facultate/Structuri de date si algoritmi/Lab5 - Copy/cmake-build-debug/CMakeFiles/Lab5.dir
+C:/D/Facultate/Structuri de date si algoritmi/Lab5 - Copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/Facultate/Structuri de date si algoritmi/Lab5 - Copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

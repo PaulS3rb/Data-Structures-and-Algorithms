@@ -1,0 +1,14 @@
+# ninja log v5
+2	468	7376493714275508	CMakeFiles/Lab4New.dir/Bag.cpp.obj	f42f70e266ea243
+2	182	7653208991200422	build.ninja	fa39589c4867cc03
+3	434	7376498523974809	CMakeFiles/Lab4New.dir/App.cpp.obj	d6ae16c40ab3cf38
+9	649	7376472631675226	CMakeFiles/Lab4New.dir/ExtendedTest.cpp.obj	6e96e78855cbabfe
+14	158	7376472626755059	CMakeFiles/Lab4New.dir/BagIterator.cpp.obj	43afe2ed33ea872f
+91	212	7376504835886250	Lab4New.exe	a484430d1eacd7bb
+2	90	7376504834786247	CMakeFiles/Lab4New.dir/ShortTest.cpp.obj	1cc5f329215b5b51
+9	136	7653209033110413	CMakeFiles/Lab4New.dir/BagIterator.cpp.obj	5176dba506447682
+13	159	7653209033340409	CMakeFiles/Lab4New.dir/ShortTest.cpp.obj	82c9487654e437ae
+3	784	7653209039580402	CMakeFiles/Lab4New.dir/App.cpp.obj	aab106275d0492aa
+19	805	7653209039790406	CMakeFiles/Lab4New.dir/Bag.cpp.obj	e4fb6050fb3be7ed
+24	948	7653209041230408	CMakeFiles/Lab4New.dir/ExtendedTest.cpp.obj	4cb938298beb86ab
+949	1104	7653209042650446	Lab4New.exe	a484430d1eacd7bb

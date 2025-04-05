@@ -1,0 +1,30 @@
+first();
+
+pre:
+*key which is key of the multimap
+
+
+post:
+points the iterator to the first value of a key
+
+next()
+
+pre:
+*key which is key of the multimap
+
+post:
+if valid element
+points the iterator to the next element of the values list
+else exception
+valid()
+pre:  *key which is key of the multimap
+
+post:
+returns true if current value is not the null pointer
+else returns false
+
+getCurrent()
+
+if valid element
+returns the value the iterator points to
+else exception

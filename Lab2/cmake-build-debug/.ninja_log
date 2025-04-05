@@ -1,0 +1,13 @@
+# ninja log v5
+525	673	7346272371267078	Lab2New.exe	9ea3b77d1023ac98
+39	624	7356849973886169	CMakeFiles/Lab2New.dir/ShortTest.cpp.obj	8d8050a288859f27
+3	883	7356849976486353	CMakeFiles/Lab2New.dir/App.cpp.obj	4a6818ffdc0804a
+14	694	7346260794975258	CMakeFiles/Lab2New.dir/SMMIterator.cpp.obj	c41e05d6e274c9e0
+12	978	7356849977456370	CMakeFiles/Lab2New.dir/SortedMultiMap.cpp.obj	8cf19b9e4dd8adfc
+24	1058	7356849978226401	CMakeFiles/Lab2New.dir/ExtendedTest.cpp.obj	97e7448d301e3cea
+32	884	7356849976496336	CMakeFiles/Lab2New.dir/ValueIterator.cpp.obj	21418b38d534cfa9
+30	833	7653808734474352	CMakeFiles/Lab2New.dir/ShortTest.cpp.obj	1101eac326943c74
+48	999	7653808736154335	CMakeFiles/Lab2New.dir/ValueIterator.cpp.obj	fbcc6d288f097e1b
+20	1000	7653808736154335	CMakeFiles/Lab2New.dir/SMMIterator.cpp.obj	6451193a1b11a0
+13	1025	7653808736444354	CMakeFiles/Lab2New.dir/App.cpp.obj	94ed449a234bdd02
+38	1189	7653808738064340	CMakeFiles/Lab2New.dir/ExtendedTest.cpp.obj	a19fe769c0fd2c13

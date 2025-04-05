@@ -1,0 +1,13 @@
+if(this.front>this.rear)
+	this.reorder();
+if(other.front>other.rear)
+	other.reorder();
+if(other.rear-other.front!=this.rear-this.front)
+	return false;
+
+for(int i=front;i<=rear;i++)
+{
+	if(this.elements[i]!=other.elements[i])
+		return false;
+}
+return true;

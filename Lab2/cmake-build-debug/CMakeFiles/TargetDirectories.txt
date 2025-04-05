@@ -1,0 +1,3 @@
+C:/D/Facultate/Structuri de date si algoritmi/Lab2New/cmake-build-debug/CMakeFiles/Lab2New.dir
+C:/D/Facultate/Structuri de date si algoritmi/Lab2New/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/Facultate/Structuri de date si algoritmi/Lab2New/cmake-build-debug/CMakeFiles/rebuild_cache.dir
